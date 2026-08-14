@@ -61,9 +61,10 @@ Primary languages, frameworks, and tools I use day-to-day:
 ## 🚀 Featured Projects
 A curated list of repositories I’m proud of. Add a 1‑line description and link for each.
 
-- [project-one](https://github.com/USERNAME/project-one) — One-line summary of what it does and the impact.
-- [project-two](https://github.com/USERNAME/project-two) — One-line summary; mention technologies used.
-- [project-three](https://github.com/USERNAME/project-three) — One-line summary; mention notable usage or adoption.
+- [project-one](https://github.com/codewithrashi07/Personal-Portfolio-website) — A polished, minimal portfolio template for a 2nd‑year B.Tech student who is learning web development and building a public project showcase. This repository contains a fast, responsive static site (HTML + CSS) you can edit and deploy to GitHub Pages in minutes.
+- [project-two](https://github.com/codewithrashi07/smart-expense-tracker) — A modern, full-stack Smart Expense Tracker built with the MERN Stack to help users manage income, expenses, budgets, and financial insights. The application provides an intuitive dashboard, detailed analytics, secure authentication, and a responsive user experience.
+
+- [project-three](https://github.com/codewithrashi07/Simple-calculator.html) — A powerful, feature-rich web calculator with scientific functions, dark mode, history tracking, and memory operations. Built with pure HTML5, CSS3, and Vanilla JavaScript - **no dependencies [...]
 
 Tip: Pin these repos on your GitHub profile to match this section.
 
@@ -79,13 +80,13 @@ Tip: Pin these repos on your GitHub profile to match this section.
 ## 🤝 Open for
 - Mentoring: yes/no
 - Contracting / Job opportunities: yes/no
-- Collaborations on: [area/project type]
+- Collaborations on: Elie Coders Summer Of Code]
 
 ---
 
 ## 💬 Get in touch
 - Email: rashiyadav684@gmail.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Twitter: [@yourhandle](https://twitter.com/iamrashi_988)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/rashi-yadav-617ab437b/)
 - Website: coming soon
 
