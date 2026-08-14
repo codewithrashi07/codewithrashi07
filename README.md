@@ -12,7 +12,7 @@ Software Developer passionate about clean code and open source | Open Source Con
 I build reliable, maintainable software and love turning ideas into polished products. I focus on practical engineering, clean architecture, and great developer experience. I contribute to open source and enjoy mentoring developers.
 
 - 🔭 Projects: 1.[smart expense tracker ](https://github.com/codewithrashi07/smart-expense-tracker) — A full-stack MERN Expense Tracker with secure authentication, budget management, interactive analytics, and a modern responsive UI
-- 2. [simple calculator.html]
+- 2.[simple calculator.html]
 -(https://github.com/codewithrashi07/Simple-calculator.html) - Advanced Calculator started as a simple calculator project and evolved into a professional-grade calculation tool. Whether you're a student solving math problems, an engineer doing complex[...]
 - 3.[Personal Portfolio]
 - (https://github.com/codewithrashi07/Personal-Portfolio-website) - A personal portfolio highlighting full‑stack projects (frontend, backend, and deployed demos). Each project includes a brief summary, tech stack, and links to code and live versions.
