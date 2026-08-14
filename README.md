@@ -79,16 +79,16 @@ Tip: Pin these repos on your GitHub profile to match this section.
 ---
 
 ## 🤝 Open for
-- Mentoring: yes/no
-- Contracting / Job opportunities: yes/no
-- Collaborations on: Elie Coders Summer Of Code]
+- Mentoring: yes
+- Contracting / internships / Job opportunities: yes/no
+- Collaborations on: [Elite Coders Summer Of Code]
 
 ---
 
 ## 💬 Get in touch
 - Email: rashiyadav684@gmail.com
-- Twitter: [@yourhandle](https://twitter.com/iamrashi_988)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/rashi-yadav-617ab437b/)
+- Twitter: [@iamrashi_988](https://twitter.com/iamrashi_988)
+- LinkedIn: [Rashi Yadav](https://www.linkedin.com/in/rashi-yadav-617ab437b/)
 - Website: coming soon
 
 ---
