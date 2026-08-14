@@ -1,6 +1,5 @@
 # Hi, I'm Rashi Yadav
-> Short, punchy tagline — who you are and what you build.  
-> Example: "Full‑stack engineer who loves building delightful developer tools and open‑source libraries."
+>  "Full‑stack engineer who loves building delightful developer tools and open‑source libraries."
 > Coder | Creator | Learner | Full Stack Developer | Building with React & Node.js
 Software Developer passionate about clean code and open source | Open Source Contributor
 
