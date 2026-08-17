@@ -8,16 +8,8 @@ Software Developer passionate about clean code and open source | Open Source Con
 ---
 
 ## 🔭 About Me
-I build reliable, maintainable software and love turning ideas into polished products. I focus on practical engineering, clean architecture, and great developer experience. I contribute to open source and enjoy mentoring developers.
+I build reliable, maintainable software and love turning ideas into polished products. I focus on practical engineering, clean architecture, and great developer experience. I contribute to open source and enjoy mentoring developers
 
-- 🔭 Projects: 1.[smart expense tracker 
- (https://github.com/codewithrashi07/smart-expense-tracker) — A full-stack MERN Expense Tracker with secure authentication, budget management, interactive analytics, and a modern responsive UI
-- 2.[simple calculator.html]
--(https://github.com/codewithrashi07/Simple-calculator.html) - Advanced Calculator started as a simple calculator project and evolved into a professional-grade     calculation tool. Whether you're a student solving math problems, an engineer doing complex[...]
-- 3.[Personal Portfolio]
-- (https://github.com/codewithrashi07/Personal-Portfolio-website) - A personal portfolio highlighting full‑stack projects (frontend, backend, and deployed demos). Each project includes a brief summary, tech stack, and links to code and live versions.
-
-- 
 - 🌱 Learning: [Full Stack Web development and Cloud Computing]
 - 👯 Open to collaborating on: open-source, indie projects, developer tools
 - ⚡ Fun fact: One-sentence personal tidbit (e.g., "Runner, coffee snob, and maker of tiny automation scripts.")
@@ -61,12 +53,13 @@ Primary languages, frameworks, and tools I use day-to-day:
 ## 🚀 Featured Projects
 A curated list of repositories I’m proud of. Add a 1‑line description and link for each.
 
-- [project-one](https://github.com/codewithrashi07/Personal-Portfolio-website) — A polished, minimal portfolio template for a 2nd‑year B.Tech student who is learning web development and building a public project showcase. This repository contains a fast, responsive static site (HTML + CSS) you can edit and deploy to GitHub Pages in minutes.
-- [project-two](https://github.com/codewithrashi07/smart-expense-tracker) — A modern, full-stack Smart Expense Tracker built with the MERN Stack to help users manage income, expenses, budgets, and financial insights. The application provides an intuitive dashboard, detailed analytics, secure authentication, and a responsive user experience.
 
-- [project-three](https://github.com/codewithrashi07/Simple-calculator.html) — A powerful, feature-rich web calculator with scientific functions, dark mode, history tracking, and memory operations. Built with pure HTML5, CSS3, and Vanilla JavaScript - **no dependencies [...]
-
-Tip: Pin these repos on your GitHub profile to match this section.
+-  Projects: 1.[smart expense tracker] 
+ (https://github.com/codewithrashi07/smart-expense-tracker) — A full-stack MERN Expense Tracker with secure authentication, budget management, interactive analytics, and a modern responsive UI
+- 2.[simple calculator.html]
+-(https://github.com/codewithrashi07/Simple-calculator.html) - Advanced Calculator started as a simple calculator project and evolved into a professional-grade     calculation tool. Whether you're a student solving math problems, an engineer doing complex[...]
+- 3.[Personal Portfolio]
+- (https://github.com/codewithrashi07/Personal-Portfolio-website) - A personal portfolio highlighting full‑stack projects (frontend, backend, and deployed demos). Each project includes a brief summary, tech stack, and links to code and live versions.
 
 ---
 
