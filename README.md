@@ -78,12 +78,9 @@ Primary languages, frameworks, and tools I use day-to-day (grouped by role as a 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-(If you'd like, I can reorder these, add links to project examples, or replace badges to match your exact stack.)
-
 ---
 
 ## 🚀 Featured Projects
-A curated list of repositories I’m proud of. Add a 1‑line description and link for each.
 
 
 -  Projects: 1.[smart expense tracker] 
