@@ -8,9 +8,9 @@ Software Developer passionate about clean code and open source | Open Source Con
 ---
 
 ## 🔭 About Me
-I'm Rashi Yadav — a curious and driven full‑stack developer currently pursuing B.Tech in CSE (AI/ML). I love building reliable, maintainable software and turning ideas into polished products, [...]
+I'm Rashi Yadav — a curious and driven full‑stack developer currently pursuing B.Tech in CSE (AI/ML). I love building reliable, maintainable software and turning ideas into polished products,
 
-I’m actively involved in campus and tech communities — Internshala Student Partner, ECSOC ’26 cohort member, and Campus Ambassador & Contributor at ECSOC — and I contribute to open source [...]
+I’m actively involved in campus and tech communities — Internshala Student Partner, ECSOC ’26 cohort member, and Campus Ambassador & Contributor at ECSOC
 
 - 🎓 Student: B.Tech in CSE (AI/ML)  
 - 🔗 Roles: Internshala Student Partner • ECSOC ’26 Cohort Member • Campus Ambassador & Contributor @ECSOC  
