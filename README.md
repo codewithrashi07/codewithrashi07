@@ -8,11 +8,17 @@ Software Developer passionate about clean code and open source | Open Source Con
 ---
 
 ## 🔭 About Me
-I build reliable, maintainable software and love turning ideas into polished products. I focus on practical engineering, clean architecture, and great developer experience. I contribute to open source and enjoy mentoring developers
+I'm Rashi Yadav — a curious and driven full‑stack developer currently pursuing B.Tech in CSE (AI/ML). I love building reliable, maintainable software and turning ideas into polished products, with a focus on practical engineering, clean architecture, and great developer experience.
 
-- 🌱 Learning: [Full Stack Web development and Cloud Computing]
-- 👯 Open to collaborating on: open-source, indie projects, developer tools
-- ⚡ Fun fact: One-sentence personal tidbit (e.g., "Runner, coffee snob, and maker of tiny automation scripts.")
+I’m actively involved in campus and tech communities — Internshala Student Partner, ECSOC ’26 cohort member, and Campus Ambassador & Contributor at ECSOC — and I contribute to open source when I can. My day-to-day work centers on full‑stack web development (React, Next.js, Node.js, TypeScript), and I'm actively exploring cloud computing and AWS, DevOps practices, and scalable systems.
+
+- 🎓 Student: B.Tech in CSE (AI/ML)  
+- 🔗 Roles: Internshala Student Partner • ECSOC ’26 Cohort Member • Campus Ambassador & Contributor @ECSOC  
+- 💻 Focus: Full‑stack Web Development (React, Next.js, Node.js, TypeScript)  
+- ☁️ Exploring: Cloud Computing (AWS), Infrastructure-as-Code, Containerization & DevOps  
+- 🌱 Learning: AI/ML models, scalable system design, and modern cloud-native tooling  
+- 👯 Open to: open-source collaborations, internships, mentoring, and developer tooling projects  
+- ⚡ Fun fact: Runner, coffee fan, and maker of small automation projects
 
 ---
 
