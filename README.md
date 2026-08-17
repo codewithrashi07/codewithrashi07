@@ -8,9 +8,9 @@ Software Developer passionate about clean code and open source | Open Source Con
 ---
 
 ## 🔭 About Me
-I'm Rashi Yadav — a curious and driven full‑stack developer currently pursuing B.Tech in CSE (AI/ML). I love building reliable, maintainable software and turning ideas into polished products, with[...] 
+I'm Rashi Yadav — a curious and driven full‑stack developer currently pursuing B.Tech in CSE (AI/ML). I love building reliable, maintainable software and turning ideas into polished products, [...]
 
-I’m actively involved in campus and tech communities — Internshala Student Partner, ECSOC ’26 cohort member, and Campus Ambassador & Contributor at ECSOC — and I contribute to open source when[...] 
+I’m actively involved in campus and tech communities — Internshala Student Partner, ECSOC ’26 cohort member, and Campus Ambassador & Contributor at ECSOC — and I contribute to open source [...]
 
 - 🎓 Student: B.Tech in CSE (AI/ML)  
 - 🔗 Roles: Internshala Student Partner • ECSOC ’26 Cohort Member • Campus Ambassador & Contributor @ECSOC  
@@ -97,8 +97,8 @@ A curated list of repositories I’m proud of. Add a 1‑line description and li
 
 ## 📈 GitHub Stats
 <!-- Replace USERNAME with your GitHub handle -->
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=codewithrashi07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrashi07&layout=compact&theme=radical)
 
 ---
 
