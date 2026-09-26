@@ -3,7 +3,7 @@
 > Coder | Creator | Learner | Full Stack Developer | Building with React & Node.js
 Software Developer passionate about clean code and open source | Open Source Contributor
 
-[📄 Resume](LINK_TO_RESUME) • [💼 LinkedIn](https://www.linkedin.com/in/rashi-yadav-617ab437b/) • [✉️ Email](mailto:rashiyadav684@gmail.com)
+[📄 Resume]("C:\Users\rashi\Downloads\Rashi_Yadav_Resume.pdf") • [💼 LinkedIn](https://www.linkedin.com/in/rashi-yadav-617ab437b/) • [✉️ Email](mailto:rashiyadav684@gmail.com)
 
 ---
 
@@ -88,7 +88,7 @@ Primary languages, frameworks, and tools I use day-to-day (grouped by role as a 
 - 2.[simple calculator.html]
 -(https://github.com/codewithrashi07/Simple-calculator.html) - Advanced Calculator started as a simple calculator project and evolved into a professional-grade     calculation tool. Whether you're[...]
 - 3.[Personal Portfolio]
-- (https://github.com/codewithrashi07/Personal-Portfolio-website) - A personal portfolio highlighting full‑stack projects (frontend, backend, and deployed demos). Each project includes a brief s[...]
+- (released soon) - A personal portfolio highlighting full‑stack projects (frontend, backend, and deployed demos). Each project includes a brief s[...]
 
 ---
 
